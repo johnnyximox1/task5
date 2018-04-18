@@ -1,0 +1,220 @@
+* {margin: 0; padding: 0;}
+
+.header {
+    height: 100px;
+    overflow: hidden;
+    background-color:  #07262B ;
+}
+.logomenu {
+    overflow: hidden;
+    height: 50px;
+    width: 70% ;
+    margin: 0 auto;
+}
+.logo {
+    height: 50px;
+    width: 20%;
+    background-color: wheat;
+    overflow: hidden;
+    float: left;
+    
+}
+.menu {
+     min-height: 50px;
+    background-color: ;
+    width:80%;
+    overflow: hidden;
+    list-style-type: none;
+}
+.list:hover {
+    background-color: black;
+}
+.list{
+    min-height: 20px;
+    background-color: red;
+    float: right;
+     display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 20px;
+    text-decoration: none;
+    overflow: hidden;
+}
+.slider {
+    overflow: hidden;
+    background-color: #0E2020;
+    min-height: 300px;
+}
+.sliderwrap {
+    overflow: hidden;
+    background-color: ;
+    min-height: 250px;
+    margin: 0 auto;
+    width:70%;
+    margin-top: 23px;
+}
+.sliderleft {
+    overflow:hidden; 
+    float: left;
+    min-height: 250px;
+    width:35%;
+    background-color: #E6DBB8;
+        
+}
+.h1 {
+    font-size: 50px;
+    color: white;
+}
+.sliderright {
+    overflow: hidden;
+    min-height: 250px;
+    width:65%;
+    float:right;
+}
+
+.fullbody {
+    min-height: 800px;
+    overflow: hidden;
+    background-color: bisque;
+}
+
+
+.sliderbar {
+    overflow: hidden;
+    min-height: 30px;
+    background-color: antiquewhite;
+    width:100%;
+    margin:0 auto;
+}
+
+
+.bodytop { min-height: 300px;
+    overflow: hidden;width: 70%;
+    margin: 0 auto;
+    background-color: white;
+    
+}
+.topsingle {
+    overflow: hidden;
+    height: 250px;background-color: white;
+    width:30%;
+    float: left;
+    margin: 20px 15px;
+}
+.toplogotext{
+    overflow: hidden;
+    min-height: 50px;
+    width: 70%;
+   
+}
+.toplogo {
+    height:50px;
+    width: 30%;
+    float: left;
+    background-color: blue;
+    overflow: hidden;
+}
+.toptext {
+    height: 50px;
+    width: 70%;
+    float:right;
+    background-color: blueviolet;
+    overflow: hidden;
+}
+.top_paragraph {
+    min-height: 150px;
+    overflow: hidden;
+    background-color: yellowgreen;
+    overflow: hidden;
+}
+.bodybottom {
+    min-height: 450px;
+    width: 70%;
+    background-color: ;
+    overflow: hidden;
+    margin: 0 auto;
+    
+}
+.bodybottomsingle {
+    min-height: 400px;
+    overflow: hidden;
+    width: 30%;
+    background-color:;
+    float: left;
+    margin: 20px 15px;
+}
+.image {
+    min-height: 150px;
+    overflow: hidden;
+}
+.bottomtext {
+    min-height:  200px;
+    overflow: hidden;
+}
+.readmore {
+    min-height: 50px;
+    width:35%;
+    background-color: chocolate;
+    overflow: hidden;
+    
+}
+.bodymedia {
+    min-height: 100px;
+    overflow: hidden;
+    width: 70%;
+    margin: 0 auto;
+    background-color:white;
+}
+
+.bodymedialogo {
+    width: 30%;
+    overflow: hidden;
+    float: left;
+    
+} 
+.bodymediatext {overflow: hidden
+    float:left;
+    width: 50%;
+    height: 30px;
+    margin: 25px auto;
+}
+.readmore1 {
+    float: right;
+    height:50px;
+    width:20%;
+    background: blue;
+    overflow: hidden;
+    margin: -50px 0px;
+}
+
+.footer {
+    min-height: 100px;
+    overflow: hidden;
+    background-color: #07262B;
+}
+.menu1 { min-height: 50px;
+    background-color: ;
+    width:80%;
+    overflow: hidden;
+    list-style-type: none;
+    float: left;
+}
+
+.list1 {
+     min-height: 20px;
+    background-color: red;
+    float: left;
+     display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 20px;
+    text-decoration: none;
+    overflow: hidden;
+    margin: 0 auto;
+}
+.footercontent {
+    min-height: 50px;
+    overflow: hidden;
+    width: 70%;
+    margin: 0 auto;
+}
